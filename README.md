@@ -1,1 +1,2 @@
 # PyEasyBatObfuscator
+Nudziłem sie ok?
